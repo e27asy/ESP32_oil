@@ -15,8 +15,8 @@
 #include <time.h>
 
 // ================= CONFIG =================
-#define WIFI_SSID   "e27asy"
-#define WIFI_PASS   "0896071707"
+#define WIFI_SSID   "xxxxxx"
+#define WIFI_PASS   "xxxxxx"
 
 #define API_URL     "https://api.chnwt.dev/thai-oil-api/latest"
 #define BTN_PIN     0                       // BOOT button
