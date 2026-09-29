@@ -3,7 +3,7 @@
  *  ESP32 + ILI9341 320x240 TFT (Landscape)
  *  API : https://api.chnwt.dev/thai-oil-api/latest
  *
- *  BOOT button (GPIO0) = toggle PTT <-> Bangchak
+ *  BOOT button (GPIO0) = toggle PTT <-> Bangchak v 1.0
  * ==========================================================*/
 
 #include <Arduino.h>
